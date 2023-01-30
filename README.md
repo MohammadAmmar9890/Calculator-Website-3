@@ -1,6 +1,4 @@
-# Task 04 @LetsGrowMore
-
-#### Task 4: Calculator
+# Calculator
 #### Language used : HTML , CSS , JS
 #### IDE: Microsoft Visual Studio code
 
